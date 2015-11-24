@@ -1,9 +1,9 @@
 ---
 dependencies:
-  - { role: geerlingguy.java }
+  - { role: shafiqissani.java }
 
 galaxy_info:
-  author: geerlingguy
+  author: shafiqissani
   description: Jenkins CI
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
